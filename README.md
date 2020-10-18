@@ -3,4 +3,4 @@
 
 ### Task description
 Create a bootstrap solution with a header section at the top and a two-row grid system below (not necessarily symmetrical or identical) with arbitrary content, 
-images and text (lorem ipsum) and a footer at the bottom.
+images and text (lorem ipsum) and a footer at the bottom. Make sure the text fits the correct image when resizing the screen.
